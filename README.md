@@ -86,7 +86,7 @@ Objective: Regression task on price variable.
   - $MAE: 0.58$
   - $RMSE: 0.58$
 
-## 5. Conclusion
+## Conclusion
 
 The proposed Smart Product Pricing System is an excellent blend between language and vision intelligence to make the right predictions regarding prices. The model is expected to have excellent generalization and interpretability with the combination of SentenceTransformer-based textual understanding, ResNet50-based visual representation, and LightGBM regression.
 
